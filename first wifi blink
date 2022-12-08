@@ -4,8 +4,8 @@
 #include <ArduinoOTA.h>
 
 #ifndef STASSID
-#define STASSID "vortex"
-#define STAPSK  "6FamFcXoQEojeiJqamuRemkUNYXNG5G"
+#define STASSID "wifi config"
+#define STAPSK  "ssid password"
 #endif
 
 const char* ssid = STASSID;
